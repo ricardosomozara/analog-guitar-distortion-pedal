@@ -17,7 +17,7 @@ The repository is organized as follows:
 
 Below is the complete, verified schematic of the pedal, showing the op-amp input stage, clipping diodes, and passive filters:
 
-![Complete Circuit Schematic](schematics/complete-schematic.png)
+![Complete Circuit Schematic](schematics/complete-schematic.PNG)
 
 ---
 
